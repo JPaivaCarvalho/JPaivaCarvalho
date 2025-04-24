@@ -5,13 +5,14 @@
 Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from 🇵🇹 Portugal
 
 🌍 Currently seeking opportunities in:
-**Digital Marketing | Data Analysis | Business Intelligence**
-
-### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).
+**Digital Marketing | Data Analysis | Business Intelligence**<br><br>
 
 
-## 🛠️ Tools & Technologies
+## **📚 Projects**
+Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).<br><br>
+
+
+## **🛠️ Tools & Technologies**
 
 Here are some of the tools and technologies I work with:
 
@@ -19,8 +20,8 @@ Here are some of the tools and technologies I work with:
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jo.o.paiva.carvalho)    ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)    ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)      
 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)<br><br>
 
 
-### 👋🏻Connect with Me
+## **👋🏻Connect with Me**
 • [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
