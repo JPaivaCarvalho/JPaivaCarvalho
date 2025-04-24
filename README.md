@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋Hi, I’m @JoaoPaivaCarvalho
+![Banner João Carvalho](https://github.com/user-attachments/assets/74468ac7-ce87-46b8-83de-67211669f102)
 
-<!--
-**JPaivaCarvalho/JPaivaCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from 🇵🇹 Portugal
+🌍 Currently seeking opportunities in:
+Digital Marketing | Data Analysis | Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨About Me in 30 Secs
+• Digital Marketing background and I hold a degree in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics.
+
+• Love working with numbers and learning new skills.
+
+• Use Excel for everything.
+
+• My first contact with Data began through dashboards using Google Looker Studio.
+
+### 📚 Projects
+Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).
+
+### 👋🏻Connect with Me
+• [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
