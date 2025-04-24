@@ -3,8 +3,9 @@
 
 
 Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from 🇵🇹 Portugal
+
 🌍 Currently seeking opportunities in:
-Digital Marketing | Data Analysis | Business Intelligence
+**Digital Marketing | Data Analysis | Business Intelligence**
 
 ## ✨About Me in 30 Secs
 • Digital Marketing background and I hold a degree in Data-Driven Marketing, with a specialization in Digital Marketing and Analytics.
