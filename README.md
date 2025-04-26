@@ -1,5 +1,6 @@
 # 👋Hi, I’m @JoaoPaivaCarvalho
-![Banner João Carvalho](https://github.com/user-attachments/assets/74468ac7-ce87-46b8-83de-67211669f102)
+![Banner Github](https://github.com/user-attachments/assets/09fb2264-ccbf-46a0-b7d9-5c7027ee0666)
+
 
 
 Hello, I am João. A self-taught professional in Data Analytics and Digital Marketing from 🇵🇹 Portugal.
