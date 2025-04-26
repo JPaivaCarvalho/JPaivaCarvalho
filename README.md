@@ -5,7 +5,7 @@
 
 Hello, I am João. A self-taught professional in Data Analytics and Digital Marketing from 🇵🇹 Portugal.
 
-🌍 Currently seeking opportunities in:
+Currently seeking opportunities in:
 **Digital Marketing and Data Analytics**<br><br>
 
 
