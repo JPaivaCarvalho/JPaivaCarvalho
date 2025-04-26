@@ -2,10 +2,10 @@
 ![Banner João Carvalho](https://github.com/user-attachments/assets/74468ac7-ce87-46b8-83de-67211669f102)
 
 
-Hello, I am João. A self-taught Data Analyst. Python and SQL enthusiast from 🇵🇹 Portugal
+Hello, I am João. A self-taught professional in Data Analytics and Digital Marketing from 🇵🇹 Portugal.
 
 🌍 Currently seeking opportunities in:
-**Digital Marketing | Data Analysis | Business Intelligence**<br><br>
+**Digital Marketing and Data Analytics**<br><br>
 
 
 ## **📚 Projects**
