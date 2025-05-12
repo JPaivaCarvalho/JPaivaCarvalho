@@ -5,9 +5,15 @@
 
 Hello, I am João. A self-taught professional in Data Analytics and Digital Marketing from 🇵🇹 Portugal.
 
-Currently seeking opportunities in:
-**Digital Marketing and Data Analytics**<br><br>
+## **🚀 About Me**
 
+- 💡 Background in Data-Driven Marketing (NOVA IMS)
+- 📊 Skilled in Power BI, SQL, Python, Tableau, Google Looker Studio, and Excel
+- 🌍 Fluent in Portuguese and English
+- 🔎 Currently seeking opportunities in **Data Analytics** and **Digital Marketing**
+
+You can check my CV here:
+👉 [CV João Paiva Carvalho](https://github.com/JPaivaCarvalho/jpaivacarvalho.github.io/blob/main/CV%20Jo%C3%A3o%20Paiva%20Carvalho.pdf) <br><br>
 
 ## **📚 Projects**
 Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).<br><br>
