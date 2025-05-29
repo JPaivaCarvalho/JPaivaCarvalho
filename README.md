@@ -1,5 +1,5 @@
 # 👋Hi, I’m @JoãoPaivaCarvalho
-![Banner Github](https://github.com/user-attachments/assets/09fb2264-ccbf-46a0-b7d9-5c7027ee0666)
+![LinkedIn Banner](https://github.com/user-attachments/assets/3c125efc-10e5-446f-98a4-406f6f891f20)
 
 
 
