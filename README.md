@@ -12,9 +12,6 @@ Hello, I am João. A self-taught professional in Data Analytics and Digital Mark
 - 🌍 Fluent in Portuguese and English
 - 🔎 Currently seeking opportunities in **Data Analytics** and **Digital Marketing**
 
-You can check my CV here:
-👉 [CV João Paiva Carvalho](https://github.com/JPaivaCarvalho/Curriculum_Vitae/blob/main/CV%20Jo%C3%A3o%20Paiva%20Carvalho.pdf)<br><br>
-
 ## **📚 Projects**
 Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).<br><br>
 
