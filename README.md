@@ -8,7 +8,7 @@ Hello, I am João. A self-taught professional in Data Analytics and Digital Mark
 ## **🚀 About Me**
 
 - 💡 Background in Data-Driven Marketing (NOVA IMS)
-- 📊 Skilled in Power BI, SQL, Python, Tableau, Google Looker Studio, and Excel
+- 📊 Skilled in Power BI, SQL, Python, Tableau, Google Ads, Meta Ads, Google Looker Studio, Search Console and Google Tag Manager.
 - 🌍 Fluent in Portuguese and English
 - 🔎 Currently seeking opportunities in **Data Analytics** and **Digital Marketing**
 
