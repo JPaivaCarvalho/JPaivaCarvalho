@@ -1,5 +1,5 @@
 # 👋Hi, I’m @JoãoPaivaCarvalho
-![LinkedIn Banner](file:///Users/joaopaivacarvalho/Downloads/Sem%20ti%CC%81tulo%20(2).png)
+![LinkedIn Banner](https://i.imgur.com/b9qi099.png)
 
 
 
