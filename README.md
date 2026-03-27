@@ -3,7 +3,7 @@
 
 
 
-Hello, I am João. A self-taught professional in Digital Marketing & Analytics from Lisbon,Portugal 🇵🇹
+Hello, I am João. A self-taught professional in Digital Marketing & Analytics from Lisbon, Portugal 🇵🇹
 
 ## **🚀 About Me**
 
