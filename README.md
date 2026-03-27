@@ -1,16 +1,16 @@
 # 👋Hi, I’m @JoãoPaivaCarvalho
-![LinkedIn Banner](https://github.com/user-attachments/assets/3c125efc-10e5-446f-98a4-406f6f891f20)
+![LinkedIn Banner](file:///Users/joaopaivacarvalho/Downloads/Sem%20ti%CC%81tulo%20(2).png)
 
 
 
-Hello, I am João. A self-taught professional in Data Analytics and Digital Marketing from 🇵🇹 Portugal.
+Hello, I am João. A self-taught professional in Digital Marketing & Analytics from Lisbon,Portugal 🇵🇹
 
 ## **🚀 About Me**
 
 - 💡 Background in Data-Driven Marketing (NOVA IMS)
 - 📊 Skilled in Power BI, SQL, Python, Tableau, Google Ads, Meta Ads, Google Looker Studio, Search Console and Google Tag Manager.
 - 🌍 Fluent in Portuguese and English
-- 🔎 Currently seeking opportunities in **Data Analytics** and **Digital Marketing**
+- 🔎 Currently seeking opportunities in **Digital Marketing**
 
 ## **📚 Projects**
 Welcome to my portfolio, where I showcase my [projects](https://github.com/JPaivaCarvalho/Portfolio/tree/main).<br><br>
