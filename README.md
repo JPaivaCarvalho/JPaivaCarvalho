@@ -29,3 +29,7 @@ Here are some of the tools and technologies I work with:
 
 ## **👋🏻Connect with Me**
 • [Linkedin](https://www.linkedin.com/in/joao-paivacarvalho/)
+
+
+
+[![João Paiva Carvalho profile views](https://u8views.com/api/v1/github/profiles/207267534/views/day-week-month-total-count.svg)](https://u8views.com/github/JPaivaCarvalho)
